@@ -1,0 +1,1 @@
+<a href="<?= G5_THEME_URL ?>/doc/m031.php">매장</a>
